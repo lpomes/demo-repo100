@@ -9,6 +9,4 @@ Adding line number 7
 #### Level 4 header
 this line is added in the remote repo
 
-*a
-*b
-*c
+<a href="http://example.com/" target="_blank">example</a>
